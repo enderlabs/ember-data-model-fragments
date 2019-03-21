@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lytics/ember-data-model-fragments.git"
+    "url": "git@github.com:enderlabs/ember-data-model-fragments.git"
   },
   "scripts": {
     "build": "ember build",
